@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707771496958",
+    "project_id": "sorumvar-3db73",
+    "storage_bucket": "sorumvar-3db73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707771496958:android:8a1585531fa448bca768af",
+        "android_client_info": {
+          "package_name": "com.sorumvar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707771496958-sjlvsacohvnh881v0mjuvu71cqfte46b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFt-pEv037TZS1ar5n5xYr_wIZW8DXpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707771496958-sjlvsacohvnh881v0mjuvu71cqfte46b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
